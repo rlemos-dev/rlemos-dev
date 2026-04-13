@@ -1,3 +1,4 @@
+### 🚀 Software Engineer & Data Analyst (em formação)
 ```
 ███████╗██╗   ██╗    ███████╗ ██████╗ ██╗   ██╗     ██████╗     ██╗     ███████╗███╗   ███╗ ██████╗ ███████╗
 ██╔════╝██║   ██║    ██╔════╝██╔═══██╗██║   ██║    ██╔═══██╗    ██║     ██╔════╝████╗ ████║██╔═══██╗██╔════╝
@@ -40,7 +41,6 @@ Busco uma oportunidade de estágio para aplicar esses conhecimentos na prática,
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
 
 **Front-end**
 
