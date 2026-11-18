@@ -59,6 +59,6 @@ Busco uma oportunidade de estágio para aplicar esses conhecimentos na prática,
 ### 📊 GitHub Stats
 
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafael-lemoss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-lemoss&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rlemos-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlemos-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
